@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jhon</h1>
-<h3 align="center">A passionate FullStack developer from Ecuador</h3>
+<h3 align="center">A passionate Full Stack Developer from Ecuador</h3>
 
 <p align="left"> <a href="https://twitter.com/jhoncuji3" target="blank"><img src="https://img.shields.io/twitter/follow/jhoncuji3?logo=twitter&style=for-the-badge" alt="jhoncuji3" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently working on **freelancer**
 
-- 🌱 I’m currently learning **Frameworks and courses**
+- 🌱 I’m currently learning **frameworks and courses**
 
-- 👯 I’m looking to collaborate on **big projects**
+- 👯 I’m looking to collaborate on **exciting and impactful projects**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I'm pretty funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
