@@ -19,12 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![n8n](https://img.shields.io/badge/-n8n-orange?style=flat-square&logo=n8n)
 
-## 🧠 Formación Técnica Complementaria
-
-- **Bootcamp de Bases de Datos** – Datamau (En curso)  
-  Aprendiendo modelado entidad-relación, diseño lógico y consultas SQL con ejercicios prácticos orientados a resolver problemas reales.  
-  🛠️ Tecnologías: SQL, MySQL, PostgreSQL, modelo entidad-relación, normalización.
-
 ## 📌 Proyectos destacados
 
 - 🔗 [SocialScript-AI](https://partyrock.aws/u/jhoncuji/zf4wSulZM/SocialScript-AI) – Generador de guiones con IA para redes sociales
