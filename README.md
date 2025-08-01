@@ -22,7 +22,7 @@
 
 - 🔗 [SocialScript-AI](https://partyrock.aws/u/jhoncuji/zf4wSulZM/SocialScript-AI) – Generador de guiones con IA para redes sociales
 - 🔗 [Amazonas Smart Assistant](https://partyrock.aws/u/jhoncuji/7pwc6MI0Y/Amazonas-Smart-Assistant) – Chatbot turístico multilingüe
-- 🔗 [Reserva de Cilindros de Gas](https://github.com/JhonC2/Taller_Flutter_Reserva_Cilindros_Gas) – App móvil logística con Flutter
+- 🔗 [Reserva de Cilindros de Gas](https://github.com/JhonC2/Taller_Flutter_Reserva_Cilindros_Gas) – App web logística con Flutter
 - 🔧 ChAIbot – Agente de automatización conversacional (próximamente)
 
 ## 📫 Conectemos
