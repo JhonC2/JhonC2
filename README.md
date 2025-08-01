@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jhon</h1>
-<h3 align="center">A passionate Full Stack Developer from Ecuador</h3>
+# 👋 Hola, soy Jhon Cuji
 
-<p align="left"> <a href="https://twitter.com/jhoncuji3" target="blank"><img src="https://img.shields.io/twitter/follow/jhoncuji3?logo=twitter&style=for-the-badge" alt="jhoncuji3" /></a> </p>
+🎓 Licenciado en Informática apasionado por el desarrollo Front-End, la innovación tecnológica y la inteligencia artificial generativa.
 
-- 🔭 I’m currently working as a **freelancer**
+## 🚀 Sobre mí
 
-- 🌱 I’m currently learning **frameworks and courses**
+- 💻 Desarrollador Front-End Jr. con experiencia en Flutter, JavaScript, PartyRock (AWS), n8n y automatización de flujos con IA.
+- 🧠 Busco oportunidades para crecer profesionalmente y convertirme en FullStack Developer.
+- 🏆 He participado en hackathons como "Hack the Future" y proyectos de impacto como SocialScript-AI.
 
-- 👯 I’m looking to collaborate on **exciting and impactful projects**
+## 🛠️ Tecnologías y Herramientas
 
-- ⚡ Fun fact **I think I'm pretty funny**
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![n8n](https://img.shields.io/badge/-n8n-orange?style=flat-square&logo=n8n)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jhoncuji3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhoncuji3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhon-cuji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon cuji" height="30" width="40" /></a>
-</p>
+## 📌 Proyectos destacados
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+- 🔗 [SocialScript-AI](https://partyrock.aws/u/jhoncuji/zf4wSulZM/SocialScript-AI) – Generador de guiones con IA para redes sociales
+- 🔗 [Amazonas Smart Assistant](https://partyrock.aws/u/jhoncuji/7pwc6MI0Y/Amazonas-Smart-Assistant) – Chatbot turístico multilingüe
+- 🔗 [Reserva de Cilindros de Gas](https://github.com/JhonC2/Taller_Flutter_Reserva_Cilindros_Gas) – App móvil logística con Flutter
+- 🔧 ChAIbot – Agente de automatización conversacional (próximamente)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonc2&show_icons=true&locale=en&layout=compact" alt="jhonc2" /></p>
+## 📫 Conectemos
+
+- 🌐 [Portafolio](https://jhoncuji.notion.site/)
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/jhon-cuji)
+- 🛠️ [GitHub](https://github.com/JhonC2)
