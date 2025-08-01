@@ -13,6 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
