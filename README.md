@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador Front-End Jr. con experiencia en Flutter, JavaScript, PartyRock (AWS), n8n y automatización de flujos con IA.
+- 💻 Desarrollador Front-End Jr. con experiencia en Flutter, JavaScript, PartyRock (AWS), n8n, Microsoft Copilot Studio y automatización de flujos con IA.
 - 🧠 Busco oportunidades para crecer profesionalmente y convertirme en FullStack Developer.
 - 🏆 He participado en hackathons como "Hack the Future" y proyectos de impacto como SocialScript-AI.
 
